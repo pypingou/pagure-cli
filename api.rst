@@ -1,6 +1,7 @@
 This is a little bit how I envision the CLI command will look like:
 
 ::
+
     pg clone <repo>
     pg clone <user>/<repo>
     pg clone <tickets/requests/docs> <repo>
